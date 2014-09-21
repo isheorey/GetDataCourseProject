@@ -4,8 +4,7 @@ Getting and Cleaning Data: Course Project
 This repository represents a submission for the Course Project for the Coursera course "Getting and Cleaning Data" (getdata-007). Contents include this readme (README.md), a codebook (CodeBook.md) and the data preparation script run_analysis.R.
 
 
-Steps in run_analysis.R
-====================
+### Steps in run_analysis.R
 
 The run_analysis.R script performs the following steps:
 
